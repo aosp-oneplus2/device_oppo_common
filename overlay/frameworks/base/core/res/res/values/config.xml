@@ -26,7 +26,7 @@
 
     <!-- Full qualified name of the class that implements
          com.android.internal.os.DeviceKeyHandler interface. -->
-    <add-resource name="config_deviceKeyHandlerClass" type="string"
+    <add-resource name="config_deviceKeyHandlerClass" type="string" />
     <string name="config_deviceKeyHandlerClass" translatable="false">com.cyanogenmod.settings.device.KeyHandler</string>
 
 </resources>
